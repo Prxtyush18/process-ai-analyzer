@@ -2,7 +2,7 @@
 
 > A real-time system process monitor powered by **Claude AI** that detects bottlenecks, suggests optimizations, and forecasts future resource requirements — all live in your browser.
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Site-00d4ff?style=for-the-badge)](https://github.com/Prxtyush18/process-ai-analyzer)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Site-00d4ff?style=for-the-badge)]([https://github.com/Prxtyush18/process-ai-analyzer](https://process-analyzer.netlify.app/))
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Claude AI](https://img.shields.io/badge/Claude%20AI-Anthropic-orange?style=flat)](https://anthropic.com)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/Prxtyush18/process-ai-analyzer)
@@ -22,7 +22,7 @@ Built as a project for **Operating Systems (B.Tech CSE)**.
 
 ## 🌐 Live Demo
 
-**[https://github.com/Prxtyush18/process-ai-analyzer](https://github.com/Prxtyush18/process-ai-analyzer)**
+**[[https://github.com/Prxtyush18/process-ai-analyzer](https://process-analyzer.netlify.app/)](https://github.com/Prxtyush18/process-ai-analyzer)**
 
 ---
 
