@@ -22,7 +22,7 @@ Built as a project for **Operating Systems (B.Tech CSE)**.
 
 ## 🌐 Live Demo
 
-**[[[https://process-analyzer.netlify.app/](https://process-analyzer.netlify.app/)]]**
+**[https://process-analyzer.netlify.app/](https://process-analyzer.netlify.app/)**
 
 ---
 
